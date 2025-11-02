@@ -82,6 +82,8 @@ The **FoodConnect** app helps to manage food donations easily using Salesforce.
 It connects donors, volunteers, and NGOs to distribute food quickly and reduce waste.  
 This project shows how cloud technology can solve real social problems.
 
+Demo Video : https://drive.google.com/file/d/1P8B2K0nNVHnhQgeWIs13XJnWrKBWjEOZ/view?usp=sharing
+
 ---
 
 ## 🌱 Future Improvements
